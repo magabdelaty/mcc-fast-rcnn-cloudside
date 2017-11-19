@@ -1,0 +1,409 @@
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:cv2.imwrite: f2300648-631e-407a-a114-ed15e1aa6a75.
+DEBUG:root:cv2.imwrite: b6f157a2-91e9-4d29-940e-265b01cd6aff.
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:cv2.imwrite: 4c34f0a2-ce2d-4750-955b-5a9643259144.jpeg
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:cv2.imwrite: 8e24f1f7-a4fc-46b7-a7d8-71934f4f5ed0.jpeg
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:Start Session: <type 'datetime.date'>
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:38:05: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:39:31: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg
+DEBUG:root:2015-09-11 07:39:31: blurred_image_paths /home/maged/share/Python/Simplicity/images/6b07f6e7-7d3a-497a-955a-20bf2e155154/jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:40:50: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg
+DEBUG:root:2015-09-11 07:40:50: blurred_image_paths /home/maged/share/Python/Simplicity/images/c22e9569-6cd9-4cd7-97b7-3217634d3bf2.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:51:29: ksize=(7,7)
+DEBUG:root:2015-09-11 07:51:29: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg&7&7
+DEBUG:root:2015-09-11 07:51:29: blurred_image_paths /home/maged/share/Python/Simplicity/images/3555419a-22fc-400b-a1ff-b10b73315065.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:52:57: ksize=(7,7)
+DEBUG:root:2015-09-11 07:52:57: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg
+DEBUG:root:2015-09-11 07:52:57: blurred_image_paths /home/maged/share/Python/Simplicity/images/e6ac8c68-9119-4f27-bf4b-f0df261bd934.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-11 07:58:11: ksize=(7,7)
+DEBUG:root:2015-09-11 07:58:11: imread /home/maged/share/Python/Simplicity/images/b2f5a270-c8ae-4a33-bdd0-31a67ea1d80c.jpeg
+DEBUG:root:2015-09-11 07:58:11: blurred_image_paths /home/maged/share/Python/Simplicity/images/0d2677b3-48de-44af-81ab-87b6ff0a5b5e.jpeg
+DEBUG:root:2015-09-11 07:58:53: ksize=(7,7)
+DEBUG:root:2015-09-11 07:58:53: imread /home/maged/share/Python/Simplicity/images/b5cdbd75-0322-4ff6-b331-c05684c48cb0.jpeg
+DEBUG:root:2015-09-11 07:58:53: blurred_image_paths /home/maged/share/Python/Simplicity/images/0a405987-1987-42fc-afa8-9e8235fda657.jpeg
+DEBUG:root:2015-09-11 07:58:56: ksize=(7,7)
+DEBUG:root:2015-09-11 07:58:56: imread /home/maged/share/Python/Simplicity/images/b5cdbd75-0322-4ff6-b331-c05684c48cb0.jpeg
+DEBUG:root:2015-09-11 07:58:56: blurred_image_paths /home/maged/share/Python/Simplicity/images/1be4cd9b-1145-48b3-af3e-796dbccc9714.jpeg
+DEBUG:root:2015-09-11 08:00:15: ksize=(7,7)
+DEBUG:root:2015-09-11 08:00:15: imread /home/maged/share/Python/Simplicity/images/5620cfa3-1aaa-4113-9777-adb87ae9217f.jpeg
+DEBUG:root:2015-09-11 08:00:15: blurred_image_paths /home/maged/share/Python/Simplicity/images/3ba8a102-a1bd-4412-b5dc-2890beef55a7.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-14 17:11:35: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:11:35: imread /home/maged/share/Python/Simplicity/images/storage
+DEBUG:root:2015-09-14 17:11:35: blurred_image_paths /home/maged/share/Python/Simplicity/images/7e29d84f-5f0e-4cdb-a03b-a779f5a58841.
+DEBUG:root:__init__
+DEBUG:root:2015-09-14 17:22:07: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:22:07: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:22:07: blurred_image_paths /home/maged/share/Python/Simplicity/images/0d646239-54e3-4df3-a2a1-e523811139ee.jpg
+DEBUG:root:2015-09-14 17:25:58: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:25:58: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:25:58: blurred_image_paths /home/maged/share/Python/Simplicity/images/948af190-e2ff-42ef-961c-0104045398b0.jpg
+DEBUG:root:2015-09-14 17:32:08: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:32:08: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:32:08: blurred_image_paths /home/maged/share/Python/Simplicity/images/743cb58c-ca78-4e6e-9912-360fbc7a9d9d.jpg
+DEBUG:root:2015-09-14 17:35:20: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:35:20: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:35:20: blurred_image_paths /home/maged/share/Python/Simplicity/images/ced4f483-9944-48e7-a903-5fe4ca59c60e.jpg
+DEBUG:root:2015-09-14 17:38:00: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:38:00: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:38:00: blurred_image_paths /home/maged/share/Python/Simplicity/images/5944dfb8-37af-44a1-a5f9-6f27080b2915.jpg
+DEBUG:root:2015-09-14 17:42:26: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:42:26: imread /home/maged/share/Python/Simplicity/images/2773d72b-e980-4d5b-b336-ce6ae2b80dc1.jpeg
+DEBUG:root:2015-09-14 17:42:27: blurred_image_paths /home/maged/share/Python/Simplicity/images/ceed7b6b-5789-4ac8-b3a8-03e05b18d527.jpeg
+DEBUG:root:2015-09-14 17:48:37: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:48:37: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:48:37: blurred_image_paths /home/maged/share/Python/Simplicity/images/56c2701d-d6ba-4029-8c83-2c0a246a9ba6.jpg
+DEBUG:root:2015-09-14 17:49:56: kernel_size=(51,51)
+DEBUG:root:2015-09-14 17:49:56: imread /home/maged/share/Python/Simplicity/images/20150912_182714_Richtone(HDR).jpg
+DEBUG:root:2015-09-14 17:49:56: blurred_image_paths /home/maged/share/Python/Simplicity/images/7bd99eb9-4edb-4f29-9b89-4ad9cd4393ae.jpg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-16 01:03:37: kernel_size=(51,51)
+DEBUG:root:2015-09-16 01:03:37: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 01:03:37: blurred_image_paths /home/maged/share/Python/Simplicity/images/7384f721-b5e8-402d-af87-b55b32854144.jpeg
+DEBUG:root:2015-09-16 01:07:52: kernel_size=(51,51)
+DEBUG:root:2015-09-16 01:07:52: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 01:07:52: blurred_image_paths /home/maged/share/Python/Simplicity/images/4b42c81a-eaae-489b-b567-5d74670b5ba4.jpeg
+DEBUG:root:2015-09-16 01:14:25: kernel_size=(51,51)
+DEBUG:root:2015-09-16 01:14:25: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 01:14:25: blurred_image_paths /home/maged/share/Python/Simplicity/images/1b3ce0cf-8948-4185-81cb-bf1178fe97a2.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-16 01:18:46: kernel_size=(51,51)
+DEBUG:root:2015-09-16 01:18:46: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 01:18:46: blurred_image_paths /home/maged/share/Python/Simplicity/images/3928ff2b-497b-4bd3-ac93-75097c807611.jpeg
+DEBUG:root:2015-09-16 01:19:06: kernel_size=(51,51)
+DEBUG:root:2015-09-16 01:19:06: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 01:19:06: blurred_image_paths /home/maged/share/Python/Simplicity/images/ad26786d-4e9e-495c-b82d-f49fa8bb69cc.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-16 02:41:05: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:41:05: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:41:05: blurred_image_paths /home/maged/share/Python/Simplicity/images/34055243-7f2e-4a95-889e-528bc57b31f4.jpeg
+DEBUG:root:2015-09-16 02:45:04: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:45:04: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:45:04: blurred_image_paths /home/maged/share/Python/Simplicity/images/e98b48f4-69e3-4434-86a1-3ad330f003c0.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-16 02:46:14: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:46:14: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:46:14: blurred_image_paths /home/maged/share/Python/Simplicity/images/4d49bee9-b3e3-46be-99ea-423f06a55e55.jpeg
+DEBUG:root:2015-09-16 02:46:35: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:46:35: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:46:35: blurred_image_paths /home/maged/share/Python/Simplicity/images/42a7c7d5-a7ca-43a7-a7e9-863d827144fd.jpeg
+DEBUG:root:2015-09-16 02:46:38: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:46:38: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:46:38: blurred_image_paths /home/maged/share/Python/Simplicity/images/4b4a3981-4d79-4568-bba6-dbfd30e47bdc.jpeg
+DEBUG:root:2015-09-16 02:47:09: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:47:09: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:47:09: blurred_image_paths /home/maged/share/Python/Simplicity/images/30dfc4b2-6c40-4f59-bb06-14dad6af49ff.jpeg
+DEBUG:root:2015-09-16 02:47:46: kernel_size=(51,51)
+DEBUG:root:2015-09-16 02:47:46: imread /home/maged/share/Python/Simplicity/images/4d82efbf-2be5-4d22-8a44-6acdaf8af2fe.jpeg
+DEBUG:root:2015-09-16 02:47:46: blurred_image_paths /home/maged/share/Python/Simplicity/images/5d2507b2-d32d-4723-afb9-98c6c78fcf7d.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-16 11:06:23: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:06:23: imread /home/maged/share/Python/Simplicity/images/c85aaa9f-a876-4dfb-a2b2-a0fd4cf007d8.jpeg
+DEBUG:root:2015-09-16 11:06:24: blurred_image_paths /home/maged/share/Python/Simplicity/images/e02163ae-6090-4d39-a499-e165721d9f20.jpeg
+DEBUG:root:2015-09-16 11:06:41: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:06:41: imread /home/maged/share/Python/Simplicity/images/e5aab5ea-ba81-4825-b637-504b0eb95b76.jpeg
+DEBUG:root:2015-09-16 11:06:42: blurred_image_paths /home/maged/share/Python/Simplicity/images/b8e4cc80-69b2-4dd7-a1a4-ccdfacec743a.jpeg
+DEBUG:root:2015-09-16 11:18:20: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:18:20: imread /home/maged/share/Python/Simplicity/images/d0268206-5110-4c10-b000-e0976c56fa05.jpeg
+DEBUG:root:2015-09-16 11:18:21: blurred_image_paths /home/maged/share/Python/Simplicity/images/dd7e9696-22b2-496f-adf4-7d09b1ad721d.jpeg
+DEBUG:root:2015-09-16 11:18:29: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:18:29: imread /home/maged/share/Python/Simplicity/images/be4ce1f8-eed3-4d31-b573-888220ca662e.jpeg
+DEBUG:root:2015-09-16 11:18:30: blurred_image_paths /home/maged/share/Python/Simplicity/images/89552075-7dc7-431e-9e4c-dbad12270b5f.jpeg
+DEBUG:root:2015-09-16 11:18:44: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:18:44: imread /home/maged/share/Python/Simplicity/images/678a57ad-834b-48d9-893a-dcfef6864902.jpeg
+DEBUG:root:2015-09-16 11:18:45: blurred_image_paths /home/maged/share/Python/Simplicity/images/bb94f6be-945d-4558-9228-b0d9f4faef13.jpeg
+DEBUG:root:2015-09-16 11:18:53: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:18:53: imread /home/maged/share/Python/Simplicity/images/45971ec8-0b10-48f8-b61d-01940497c702.jpeg
+DEBUG:root:2015-09-16 11:18:53: blurred_image_paths /home/maged/share/Python/Simplicity/images/9f65fc38-8907-4504-b755-c0017a579a44.jpeg
+DEBUG:root:2015-09-16 11:25:58: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:25:58: imread /home/maged/share/Python/Simplicity/images/ac38856f-cfa1-49cc-bc09-1b45fdf8cdc1.jpeg
+DEBUG:root:2015-09-16 11:25:58: blurred_image_paths /home/maged/share/Python/Simplicity/images/fe1015c5-8c92-4d20-ab72-c75e74c7ad85.jpeg
+DEBUG:root:2015-09-16 11:26:02: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:26:02: imread /home/maged/share/Python/Simplicity/images/b72bf500-0a91-4d74-993a-d8bd36e173fa.jpeg
+DEBUG:root:2015-09-16 11:26:03: blurred_image_paths /home/maged/share/Python/Simplicity/images/73953136-dd31-4769-abce-3958e95298a4.jpeg
+DEBUG:root:2015-09-16 11:41:34: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:41:34: imread /home/maged/share/Python/Simplicity/images/cb7d6341-7721-48ed-94b3-0ae6f9747870.jpeg
+DEBUG:root:2015-09-16 11:41:34: blurred_image_paths /home/maged/share/Python/Simplicity/images/630f342f-c1c2-47ea-af0a-0e95e354e4f2.jpeg
+DEBUG:root:2015-09-16 11:41:43: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:41:43: imread /home/maged/share/Python/Simplicity/images/3eb94166-e054-4170-a7f9-ab7c6811a46e.jpeg
+DEBUG:root:2015-09-16 11:41:44: blurred_image_paths /home/maged/share/Python/Simplicity/images/2819317d-c415-4741-b7ac-da301f05981e.jpeg
+DEBUG:root:2015-09-16 11:42:02: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:42:02: imread /home/maged/share/Python/Simplicity/images/ba4a91a6-5a05-4023-8118-2009fd08de08.jpeg
+DEBUG:root:2015-09-16 11:42:03: blurred_image_paths /home/maged/share/Python/Simplicity/images/d9e1f4d5-75d7-4914-8001-42cfc9cba14b.jpeg
+DEBUG:root:2015-09-16 11:43:20: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:43:20: imread /home/maged/share/Python/Simplicity/images/73cdec35-522c-4b0c-b62e-23b573f024a9.jpeg
+DEBUG:root:2015-09-16 11:43:20: blurred_image_paths /home/maged/share/Python/Simplicity/images/a598d708-a7c7-47ed-9ad0-16cb36339106.jpeg
+DEBUG:root:2015-09-16 11:59:25: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:59:25: imread /home/maged/share/Python/Simplicity/images/fd4e8396-0184-4ffc-b490-48d56d670885.jpeg
+DEBUG:root:2015-09-16 11:59:26: blurred_image_paths /home/maged/share/Python/Simplicity/images/88c897cd-e541-4117-ba59-d1cf83af564d.jpeg
+DEBUG:root:2015-09-16 11:59:30: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:59:30: imread /home/maged/share/Python/Simplicity/images/be79d308-2f2b-46e4-80c4-e380463e1ca6.jpeg
+DEBUG:root:2015-09-16 11:59:30: blurred_image_paths /home/maged/share/Python/Simplicity/images/37ab74f6-7385-4ca2-88e4-ab3afdcd10b3.jpeg
+DEBUG:root:2015-09-16 11:59:48: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:59:48: imread /home/maged/share/Python/Simplicity/images/ec5afb14-84e0-4df2-b53f-0bb113119480.jpeg
+DEBUG:root:2015-09-16 11:59:48: blurred_image_paths /home/maged/share/Python/Simplicity/images/a4019c82-7c20-4784-a58a-faf37a2ea7f9.jpeg
+DEBUG:root:2015-09-16 11:59:51: kernel_size=(51,51)
+DEBUG:root:2015-09-16 11:59:51: imread /home/maged/share/Python/Simplicity/images/24fea97a-826d-4ee2-b7db-bb52cd649882.jpeg
+DEBUG:root:2015-09-16 11:59:52: blurred_image_paths /home/maged/share/Python/Simplicity/images/d6cb8e7b-58fc-4cf4-8926-ec4beb2e23e7.jpeg
+DEBUG:root:2015-09-16 13:18:23: kernel_size=(51,51)
+DEBUG:root:2015-09-16 13:18:23: imread /home/maged/share/Python/Simplicity/images/4935cc45-647f-44fd-8f7d-06eda6df31e8.jpeg
+DEBUG:root:2015-09-16 13:18:23: blurred_image_paths /home/maged/share/Python/Simplicity/images/41a45e66-7885-47f5-88dd-6e88f727c48a.jpeg
+DEBUG:root:2015-09-16 13:21:00: kernel_size=(51,51)
+DEBUG:root:2015-09-16 13:21:00: imread /home/maged/share/Python/Simplicity/images/b5cb4206-c196-4651-80b9-9909a6de5a31.jpeg
+DEBUG:root:2015-09-16 13:21:01: blurred_image_paths /home/maged/share/Python/Simplicity/images/b548d3fd-ad01-4e3d-9448-1213764f9eb2.jpeg
+DEBUG:root:2015-09-16 13:21:49: kernel_size=(51,51)
+DEBUG:root:2015-09-16 13:21:49: imread /home/maged/share/Python/Simplicity/images/fdeab3d7-85cf-4a2f-ad99-614d9ca2e712.jpeg
+DEBUG:root:2015-09-16 13:21:50: blurred_image_paths /home/maged/share/Python/Simplicity/images/4175d94f-2db8-4224-a49e-4ba203f161cb.jpeg
+DEBUG:root:2015-09-16 13:22:06: kernel_size=(51,51)
+DEBUG:root:2015-09-16 13:22:06: imread /home/maged/share/Python/Simplicity/images/b3c6c02d-e9dd-4b7b-a9e1-b6ed611e8bea.jpeg
+DEBUG:root:2015-09-16 13:22:06: blurred_image_paths /home/maged/share/Python/Simplicity/images/bf073b6f-32b9-4d95-9b14-1507690437a3.jpeg
+DEBUG:root:2015-09-16 13:22:32: kernel_size=(51,51)
+DEBUG:root:2015-09-16 13:22:32: imread /home/maged/share/Python/Simplicity/images/5aef7a12-f256-41a3-9bcc-041550f7c4fa.jpeg
+DEBUG:root:2015-09-16 13:22:32: blurred_image_paths /home/maged/share/Python/Simplicity/images/4b7769df-ddc8-426e-9cd6-18184f1a3533.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-17 14:06:18: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:06:18: imread /home/maged/share/Python/Simplicity/images/d6fe75ef-46c6-4fc6-b40b-002595d0f741.jpeg
+DEBUG:root:2015-09-17 14:06:18: blurred_image_paths /home/maged/share/Python/Simplicity/images/439b9219-7875-45fd-85ae-55e501f511b0.jpeg
+DEBUG:root:2015-09-17 14:07:02: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:07:02: imread /home/maged/share/Python/Simplicity/images/f7227940-bcc7-46dd-bd38-9c729e0464ca.jpeg
+DEBUG:root:2015-09-17 14:07:03: blurred_image_paths /home/maged/share/Python/Simplicity/images/7ba1bbe4-6594-452f-8cde-f17a28d4efaa.jpeg
+DEBUG:root:2015-09-17 14:07:44: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:07:44: imread /home/maged/share/Python/Simplicity/images/48374684-a471-451f-9dae-b0b6c3dbd3eb.jpeg
+DEBUG:root:2015-09-17 14:07:45: blurred_image_paths /home/maged/share/Python/Simplicity/images/c7ff5d79-a906-4e3e-928a-6db57fa4cb2d.jpeg
+DEBUG:root:2015-09-17 14:13:10: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:13:10: imread /home/maged/share/Python/Simplicity/images/539d5315-a4ad-4e97-8480-60452710cf97.jpeg
+DEBUG:root:2015-09-17 14:13:11: blurred_image_paths /home/maged/share/Python/Simplicity/images/8907642c-2050-4f79-bf55-e10c1e0f6fed.jpeg
+DEBUG:root:2015-09-17 14:14:22: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:14:22: imread /home/maged/share/Python/Simplicity/images/83e05efc-aa7f-451b-94df-486c7ca49675.jpeg
+DEBUG:root:2015-09-17 14:14:23: blurred_image_paths /home/maged/share/Python/Simplicity/images/d3dfc5d1-5b62-46d8-b8fc-3df7252a55c2.jpeg
+DEBUG:root:2015-09-17 14:14:29: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:14:29: imread /home/maged/share/Python/Simplicity/images/bd2bff87-0fbb-4d8e-9b93-f4d0fa464dcb.jpeg
+DEBUG:root:2015-09-17 14:14:29: blurred_image_paths /home/maged/share/Python/Simplicity/images/4c93128a-abcf-4258-a9ef-4ee36a9528f7.jpeg
+DEBUG:root:2015-09-17 14:15:18: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:15:18: imread /home/maged/share/Python/Simplicity/images/56e66470-86b7-45e1-a712-efe185c8389b.jpeg
+DEBUG:root:2015-09-17 14:15:19: blurred_image_paths /home/maged/share/Python/Simplicity/images/518b33a0-8a10-4603-95d7-4756a07788c7.jpeg
+DEBUG:root:2015-09-17 14:15:25: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:15:25: imread /home/maged/share/Python/Simplicity/images/3a330980-8477-4254-8b40-9d1497aa6f08.jpeg
+DEBUG:root:2015-09-17 14:15:26: blurred_image_paths /home/maged/share/Python/Simplicity/images/a3cdf098-1fab-48d7-a7be-0629ca3d3feb.jpeg
+DEBUG:root:2015-09-17 14:15:32: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:15:32: imread /home/maged/share/Python/Simplicity/images/9f439d85-0fe0-41f5-9696-f4bb3ce07e17.jpeg
+DEBUG:root:2015-09-17 14:15:32: blurred_image_paths /home/maged/share/Python/Simplicity/images/516a0022-acac-47b6-919e-618ae7ad9dbe.jpeg
+DEBUG:root:2015-09-17 14:15:36: kernel_size=(51,51)
+DEBUG:root:2015-09-17 14:15:36: imread /home/maged/share/Python/Simplicity/images/70242564-3e14-4c50-9ac8-0b362b634896.jpeg
+DEBUG:root:2015-09-17 14:15:37: blurred_image_paths /home/maged/share/Python/Simplicity/images/42b709e8-d0ef-4dc6-a8b3-e2900d503f68.jpeg
+DEBUG:root:2015-09-18 03:00:31: kernel_size=(51,51)
+DEBUG:root:2015-09-18 03:00:31: imread /home/maged/share/Python/Simplicity/images/d634d7a9-1be1-40aa-ba55-1add068b58db.jpeg
+DEBUG:root:2015-09-18 03:00:32: blurred_image_paths /home/maged/share/Python/Simplicity/images/a43b2056-7b45-440a-b2bd-345d23023ec6.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-19 08:17:58: kernel_size=(51,51)
+DEBUG:root:2015-09-19 08:17:58: imread /home/maged/share/Python/Simplicity/images/de9887b3-c013-40b7-b8b4-44dd111ced88.jpeg
+DEBUG:root:2015-09-19 08:17:59: blurred_image_paths /home/maged/share/Python/Simplicity/images/b94b2353-6282-4432-b8ca-152675037405.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-19 22:35:21: kernel_size=(51,51)
+DEBUG:root:2015-09-19 22:35:21: imread /home/maged/share/Python/Simplicity/images/32810a26-04b9-4d04-923b-ad3a99598655.jpeg
+DEBUG:root:2015-09-19 22:35:22: blurred_image_paths /home/maged/share/Python/Simplicity/images/fd5bf217-c1a9-4086-9172-abb6a2fd8caf.jpeg
+DEBUG:root:2015-09-19 22:35:23: kernel_size=(51,51)
+DEBUG:root:2015-09-19 22:35:23: imread /home/maged/share/Python/Simplicity/images/32810a26-04b9-4d04-923b-ad3a99598655.jpeg
+DEBUG:root:2015-09-19 22:35:23: blurred_image_paths /home/maged/share/Python/Simplicity/images/4baddcf3-081e-43be-b3d4-84e3da5e49d2.jpeg
+DEBUG:root:2015-09-19 22:35:30: kernel_size=(51,51)
+DEBUG:root:2015-09-19 22:35:30: imread /home/maged/share/Python/Simplicity/images/6d576642-7149-4280-a6c0-301016fbaf12.jpeg
+DEBUG:root:2015-09-19 22:35:30: blurred_image_paths /home/maged/share/Python/Simplicity/images/66d215ca-049b-4899-bac7-9c2bc79fd897.jpeg
+DEBUG:root:2015-09-19 22:35:31: kernel_size=(51,51)
+DEBUG:root:2015-09-19 22:35:31: imread /home/maged/share/Python/Simplicity/images/6d576642-7149-4280-a6c0-301016fbaf12.jpeg
+DEBUG:root:2015-09-19 22:35:32: blurred_image_paths /home/maged/share/Python/Simplicity/images/9187744d-87d2-4485-a58e-6d0e2822e46d.jpeg
+DEBUG:root:2015-09-19 22:35:36: kernel_size=(51,51)
+DEBUG:root:2015-09-19 22:35:36: imread /home/maged/share/Python/Simplicity/images/4772388e-9f94-4c58-801c-3014f9e1a8c0.jpeg
+DEBUG:root:2015-09-19 22:35:37: blurred_image_paths /home/maged/share/Python/Simplicity/images/23607292-807a-405e-b234-77dd5b5f312f.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-19 22:47:12: kernel_size=(51,51)
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-20 00:07:52: kernel_size=(51,51)
+DEBUG:root:__init__
+DEBUG:root:2015-09-20 00:21:59: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:21:59: imread https://dl.dropboxusercontent.com/1/view/0ckjbm9ufueprpc/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-20 00:21:59: imread jpg
+DEBUG:root:2015-09-20 00:22:04: imread /home/maged/share/Python/Simplicity/images/51f40737-b086-41d7-b308-d894273087b4.jpg
+DEBUG:root:2015-09-20 00:22:50: blurred_image_paths /home/maged/share/Python/Simplicity/images/bb72bfc5-3c92-46f0-a8f5-9d9be927409e.jpg
+DEBUG:root:2015-09-20 00:22:50: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:22:50: imread https://dl.dropboxusercontent.com/1/view/0ckjbm9ufueprpc/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-20 00:22:50: imread jpg
+DEBUG:root:2015-09-20 00:22:52: imread /home/maged/share/Python/Simplicity/images/16402e91-3d3c-45c9-ad48-4988446861bd.jpg
+DEBUG:root:2015-09-20 00:23:17: blurred_image_paths /home/maged/share/Python/Simplicity/images/419d4c6a-3754-4dfa-b0d3-dd2e65eda7eb.jpg
+DEBUG:root:2015-09-20 00:40:10: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:40:10: imread 
+DEBUG:root:2015-09-20 00:40:10: imread 
+DEBUG:root:__init__
+DEBUG:root:2015-09-20 00:45:27: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:45:27: imread 
+DEBUG:root:2015-09-20 00:45:27: imread 
+DEBUG:root:2015-09-20 00:51:15: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:51:15: imread https://dl.dropboxusercontent.com/1/view/0ckjbm9ufueprpc/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-20 00:51:15: imread jpg
+DEBUG:root:2015-09-20 00:51:22: imread /home/maged/share/Python/Simplicity/images/2bf7e1fe-4e81-4711-ba3f-1ef5049c2aa4.jpg
+DEBUG:root:2015-09-20 00:51:51: blurred_image_paths /home/maged/share/Python/Simplicity/images/ad23044e-3a03-43bb-bc96-0bdf39648f0f.jpg
+DEBUG:root:2015-09-20 00:51:51: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:51:51: imread https://dl.dropboxusercontent.com/1/view/0ckjbm9ufueprpc/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-20 00:51:51: imread jpg
+DEBUG:root:2015-09-20 00:51:57: imread /home/maged/share/Python/Simplicity/images/d7ce8f87-94ec-4614-b558-6ba6529ad9c0.jpg
+DEBUG:root:2015-09-20 00:52:23: blurred_image_paths /home/maged/share/Python/Simplicity/images/2997b303-d93e-4c39-a49a-e9a78dc89322.jpg
+DEBUG:root:2015-09-20 00:55:07: kernel_size=(51,51)
+DEBUG:root:2015-09-20 00:55:07: imread https://dl.dropboxusercontent.com/1/view/0ckjbm9ufueprpc/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-20 00:55:07: imread jpg
+DEBUG:root:2015-09-20 00:55:19: imread /home/maged/share/Python/Simplicity/images/87f4e040-6713-4ad6-8ce5-2e51661d490a.jpg
+DEBUG:root:2015-09-20 00:55:48: blurred_image_paths /home/maged/share/Python/Simplicity/images/8d594873-0263-4a89-a413-ec974d480115.jpg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-22 22:59:18: kernel_size=(51,51)
+DEBUG:root:2015-09-22 22:59:18: imread /home/maged/share/Python/Simplicity/images/45c191e2-87ba-43d1-aca4-1909b8b08a00.jpeg
+DEBUG:root:2015-09-22 22:59:19: blurred_image_paths /home/maged/share/Python/Simplicity/images/9f6294dc-b1f1-4270-abad-9e509684ddcb.jpeg
+DEBUG:root:2015-09-22 22:59:19: kernel_size=(51,51)
+DEBUG:root:2015-09-22 22:59:19: imread /home/maged/share/Python/Simplicity/images/45c191e2-87ba-43d1-aca4-1909b8b08a00.jpeg
+DEBUG:root:2015-09-22 22:59:20: blurred_image_paths /home/maged/share/Python/Simplicity/images/28722e5f-d111-4b2a-aef1-671162f442cc.jpeg
+DEBUG:root:__init__
+DEBUG:root:2015-09-22 23:01:31: Image Path=(https%3A%2F%2Fdl.dropboxusercontent.com%2F1%2Fview%2F577n3gdphylyt5q%2FCloudComputingSchool%2FWalaa%2527s%2520iphone%2520photos%2FPhoto%2520Apr%252010%252C%25206%252000%252049%2520PM.jpg)
+DEBUG:root:2015-09-22 23:01:31: kernel_size=(51,51)
+DEBUG:root:2015-09-22 23:01:31: imread 
+DEBUG:root:2015-09-22 23:01:31: imread 
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:2015-09-22 23:08:08: kernel_size=(51,51)
+DEBUG:root:2015-09-22 23:08:08: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-22 23:08:08: imread jpg
+DEBUG:root:2015-09-22 23:08:10: imread /home/maged/share/Python/Simplicity/images/48eea663-7157-49b3-8c3d-4dda9257acb3.jpg
+DEBUG:root:2015-09-22 23:08:35: blurred_image_paths /home/maged/share/Python/Simplicity/images/32dc0ab7-e38a-45df-a314-24f24e6b69f1.jpg
+DEBUG:root:__init__
+DEBUG:root:2015-09-23 00:01:08: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:01:08: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:01:08: imread jpg
+DEBUG:root:2015-09-23 00:01:09: imread /home/maged/share/Python/Simplicity/images/975db523-57c8-4d97-bf2c-d82289be3d99.jpg
+DEBUG:root:2015-09-23 00:01:40: blurred_image_paths /home/maged/share/Python/Simplicity/images/7bbdbb71-ad79-4e00-a201-4c9dc8d19b46.jpg
+DEBUG:root:2015-09-23 00:35:50: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:35:50: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:35:50: imread jpg
+DEBUG:root:2015-09-23 00:35:51: imread /home/maged/share/Python/Simplicity/images/04aa8601-2683-42b1-82a4-31299f7a5277.jpg
+DEBUG:root:2015-09-23 00:36:16: blurred_image_paths /home/maged/share/Python/Simplicity/images/311df666-8f66-448e-acbb-45f5ec194d21.jpg
+DEBUG:root:2015-09-23 00:36:16: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:36:16: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:36:16: imread jpg
+DEBUG:root:2015-09-23 00:36:23: imread /home/maged/share/Python/Simplicity/images/de19cbf0-d5e0-4ebf-b90d-84e4799d91cb.jpg
+DEBUG:root:2015-09-23 00:36:49: blurred_image_paths /home/maged/share/Python/Simplicity/images/4ec0f65b-99c4-4c0a-9363-b330baf8363d.jpg
+DEBUG:root:2015-09-23 00:36:49: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:36:49: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:36:49: imread jpg
+DEBUG:root:2015-09-23 00:36:59: imread /home/maged/share/Python/Simplicity/images/e2cc6ef0-b21f-4b67-a365-43e857503576.jpg
+DEBUG:root:2015-09-23 00:37:31: blurred_image_paths /home/maged/share/Python/Simplicity/images/6a742248-61e7-4625-87c7-50de354ecc60.jpg
+DEBUG:root:2015-09-23 00:39:42: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:39:42: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:39:42: imread jpg
+DEBUG:root:2015-09-23 00:39:48: imread /home/maged/share/Python/Simplicity/images/7fa23a2d-6def-4ddd-afd2-a3cd36296485.jpg
+DEBUG:root:2015-09-23 00:40:28: blurred_image_paths /home/maged/share/Python/Simplicity/images/4d79f4ba-2a0d-4722-a99e-bc4ec297219b.jpg
+DEBUG:root:2015-09-23 00:40:28: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:40:28: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:40:28: imread jpg
+DEBUG:root:2015-09-23 00:40:40: imread /home/maged/share/Python/Simplicity/images/e1faec97-d9fa-477f-a045-66d1ef79ca63.jpg
+DEBUG:root:2015-09-23 00:41:12: blurred_image_paths /home/maged/share/Python/Simplicity/images/a3c0fbf1-6c12-4119-8dfe-2ca9964b047f.jpg
+DEBUG:root:2015-09-23 00:41:12: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:41:12: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:41:12: imread jpg
+DEBUG:root:2015-09-23 00:41:21: imread /home/maged/share/Python/Simplicity/images/4770a45c-dc31-4512-acd1-d8a65ecb1d43.jpg
+DEBUG:root:2015-09-23 00:41:45: blurred_image_paths /home/maged/share/Python/Simplicity/images/9c4b8c07-a2db-4b91-a562-0bb08be703e3.jpg
+DEBUG:root:2015-09-23 00:43:16: kernel_size=(51,51)
+DEBUG:root:2015-09-23 00:43:16: imread https://dl.dropboxusercontent.com/1/view/577n3gdphylyt5q/CloudComputingSchool/Walaa%27s%20iphone%20photos/Photo%20Apr%2010%2C%206%2000%2049%20PM.jpg
+DEBUG:root:2015-09-23 00:43:16: imread jpg
+DEBUG:root:2015-09-23 00:43:19: imread /home/maged/share/Python/Simplicity/images/f95046fd-a71e-4e93-831e-8beb149b4e41.jpg
+DEBUG:root:2015-09-23 00:44:17: blurred_image_paths /home/maged/share/Python/Simplicity/images/3e12247c-ed51-49f3-8673-af8b1cb9b6cc.jpg
+DEBUG:root:__init__
+DEBUG:root:2015-09-28 12:43:37: kernel_size=(51,51)
+DEBUG:root:2015-09-28 12:43:37: imread /home/maged/share/Python/Simplicity/images/bcd6c5a5-e8ca-4db3-b067-55e753f9d19e.jpeg
+DEBUG:root:2015-09-28 12:43:37: blurred_image_paths /home/maged/share/Python/Simplicity/images/29052df8-0643-40e0-ad41-61c092853569.jpeg
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:55
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:55
+DEBUG:root:55
+DEBUG:root:55
+DEBUG:root:55
+DEBUG:root:55
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:55
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:prime_test_numbers.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:prime_test_numbers.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:prime_test_numbers.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:prime_test_numbers.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:prime_test_numbers.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:list_11000.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:list_11000.txt
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:__init__
+DEBUG:root:list_11000.txt

@@ -1,0 +1,19 @@
+{
+  "provider_uuid": "16eba865-ce69-4ef4-82a6-8ac0c883ffd6",
+  "speed_test": [
+    {
+      "download": 0.58,
+      "ping": 79.111,
+      "upload": 0.14
+    }
+  ],
+  "cpu_core": "2",
+  "cpu_speed": "2194926000",
+  "ram_avail": "2822533120",
+  "avail_services": [
+    {
+      "cloud_service": "object_detection/detect/",
+      "android_service": "com.simplicity.maged.mccobjectdetection.services.ObjectDetectionService"
+    }
+  ]
+}
